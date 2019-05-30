@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Pool:war exploded">
+    <output-path>G:/JAVAFILE/TomCat/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/webapps/manager</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Pool/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Pool" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
