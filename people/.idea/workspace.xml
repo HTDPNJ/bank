@@ -29,28 +29,48 @@
       <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/axis.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/mybatis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/mapper/PeopleMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/log4j.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/src/mybatis.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/mybatis-3.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/people_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfut/mapper/PeopleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfut/pojo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfut/service/PeopleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfut/service/impl/PeopleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfut/servlet/ShowServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/artifacts/page_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/batis/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/Service/PeopleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/Service/impl/PeopleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/mapper/PeopleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/pojo/PageInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/com/hfut/servlet/ShowPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/ant-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/ant-launcher-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/asm-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/cglib-3.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/javassist-3.24.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/log4j-api-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/log4j-core-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/mybatis-3.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/ognl-3.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/lib/slf4j-log4j12-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +83,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,9 +132,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
-    <option name="y" value="71" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="93" />
+    <option name="y" value="60" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -125,6 +155,12 @@
               <item name="people" type="b2602c69:ProjectViewProjectNode" />
               <item name="people" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="people" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="people" type="b2602c69:ProjectViewProjectNode" />
@@ -286,17 +322,26 @@
       <updated>1559187041090</updated>
       <workItem from="1559187044076" duration="15931000" />
       <workItem from="1559306742912" duration="1200000" />
-      <workItem from="1559312701780" duration="7536000" />
+      <workItem from="1559312701780" duration="9066000" />
     </task>
+    <task id="LOCAL-00001" summary="com">
+      <created>1559381732630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559381732630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24667000" />
+    <option name="totallyTimeSpent" value="26197000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-22" y="71" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22210066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -306,7 +351,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21029572" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20824295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,6 +377,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="com" />
+    <option name="LAST_COMMIT_MESSAGE" value="com" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/hfut/pojo/People.java">
@@ -447,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hfut/servlet/ShowServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -461,6 +503,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

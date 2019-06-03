@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="a.b">
+    <select id="selById" resultType="com.hfut.pojo.People" parameterType="int">
+        select * from people where id=#{0}
+    </select>
+
+    <select id="selByIdandName" resultType="com.hfut.pojo.People" parameterType="map">
+        select * from people where id=#{id} and name=#{name}
+    </select>
+
+    <select id="page" resultType="People" parameterType="map">
+        select * from people limit #{pageStart},#{pageSize}
+    </select>
+
+    <insert id="ins" parameterType="People">
+        insert into people values(default,#{name},#{age})
+    </insert>
+</mapper>

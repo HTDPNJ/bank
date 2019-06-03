@@ -1,30 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="Pool:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5d4d54c-f080-45fe-8ee4-3ad57813b7bc" name="Default Changelist" comment="">
+    <list default="true" id="abbc2736-5da9-4ad4-9b99-7dc791dfe913" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/log4j_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axis.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hfut/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis01/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis01/src/Main2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mybatis01/src/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/.idea/artifacts/people_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/people.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/src/com/hfut/service/PeopleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/src/com/hfut/service/impl/PeopleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/src/com/hfut/servlet/ShowServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/src/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../people/web/images/123.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/artifacts/mybatis02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/axis.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/mybatis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/mapper/PeopleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/com/hfut/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/src/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/mybatis-3.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis02/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../people/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../people/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,21 +52,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hfut/servlet/DemoServlet.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/context.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hfut/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -71,18 +85,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/hfut/servlet/DemoServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/hfut/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
       </list>
     </option>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -93,8 +101,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="log4j" type="b2602c69:ProjectViewProjectNode" />
+              <item name="log4j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="log4j" type="b2602c69:ProjectViewProjectNode" />
+              <item name="log4j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -103,19 +126,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="G:/JAVAFILE/TomCat/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/webapps/manager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\java_CODE\Mybatis\Pool\web\WEB-INF" />
+      <recent name="F:\java_CODE\Mybatis\log4j\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\java_CODE\Mybatis\Pool\web" />
+      <recent name="F:\java_CODE\Mybatis\log4j\web\WEB-INF\lib" />
+      <recent name="F:\java_CODE\Mybatis\log4j\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -130,99 +154,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hfut.test.Test" />
+      <module name="log4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hfut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="log4j-1.2.17.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/manager/" />
       <deployment>
-        <artifact name="Pool:war exploded">
+        <artifact name="log4j:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Pool_war_exploded" />
+            <option name="CONTEXT_PATH" value="/log4j_war_exploded" />
           </settings>
         </artifact>
       </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_19_Pool" />
-      </server-settings>
+      <server-settings />
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="57645" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Pool:war exploded" />
+          <artifact name="log4j:war exploded" />
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JAR Application.log4j-1.2.17.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5d4d54c-f080-45fe-8ee4-3ad57813b7bc" name="Default Changelist" comment="" />
-      <created>1559184419851</created>
+      <changelist id="abbc2736-5da9-4ad4-9b99-7dc791dfe913" name="Default Changelist" comment="" />
+      <created>1559379279332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559184419851</updated>
-      <workItem from="1559184423491" duration="1724000" />
+      <updated>1559379279332</updated>
+      <workItem from="1559379283756" duration="3773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1724000" />
+    <option name="totallyTimeSpent" value="3773000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -230,7 +227,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20787746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
@@ -242,7 +239,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45235488" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36363637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,16 +259,23 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/context.xml">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hfut/servlet/DemoServlet.java">
+    <entry file="file://$PROJECT_DIR$/axis.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hfut/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -281,12 +285,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Pool:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -294,7 +296,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -317,7 +318,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -329,7 +329,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Pool</last-edited>
+          <last-edited>log4j</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -341,6 +341,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

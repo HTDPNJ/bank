@@ -1,0 +1,78 @@
+307  [main] INFO  com.hfut.test.Test  - 这是一个info
+301  [main] INFO  com.hfut.test.Test  - 这是一个info
+0    [main] DEBUG org.apache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2    [main] DEBUG org.apache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+14   [main] DEBUG org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+14   [main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+14   [main] DEBUG org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+15   [main] DEBUG org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+15   [main] DEBUG org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+31   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+31   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+98   [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+281  [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - Created connection 133250414.
+281  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+290  [main] DEBUG a.b.c  - ==>  Preparing: select * from people 
+309  [main] DEBUG a.b.c  - ==> Parameters: 
+325  [main] DEBUG a.b.c  - <==      Total: 2
+325  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+325  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+326  [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - Returned connection 133250414 to pool.
+326  [main] DEBUG com.hfut.test.Test  - 这是一个调试信息
+326  [main] INFO  com.hfut.test.Test  - 这是一个info
+0    [main] DEBUG org.apache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2    [main] DEBUG org.apache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+14   [main] DEBUG org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+14   [main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+14   [main] DEBUG org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+15   [main] DEBUG org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+15   [main] DEBUG org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+32   [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+80   [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+258  [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - Created connection 133250414.
+258  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+266  [main] DEBUG a.b.c  - ==>  Preparing: select * from people 
+287  [main] DEBUG a.b.c  - ==> Parameters: 
+297  [main] DEBUG a.b.c  - <==      Total: 2
+298  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+298  [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f13d6e]
+298  [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource  - Returned connection 133250414 to pool.
+299  [main] DEBUG com.hfut.test.Test  - 这是一个调试信息
+299  [main] INFO  com.hfut.test.Test  - 这是一个info
+0    [main] DEBUG a.b.c  - ==>  Preparing: select * from people 
+24   [main] DEBUG a.b.c  - ==> Parameters: 
+39   [main] DEBUG a.b.c  - <==      Total: 2
+0    [main] DEBUG a.b.c  - ==>  Preparing: select * from people 
+28   [main] DEBUG a.b.c  - ==> Parameters: 
+39   [main] DEBUG a.b.c  - <==      Total: 2
+0    [main] DEBUG a.b.selById  - ==>  Preparing: select * from people where id=? 
+23   [main] DEBUG a.b.selById  - ==> Parameters: 2(Integer)
+62   [main] DEBUG a.b.selById  - <==      Total: 1
+0    [main] DEBUG a.b.selById  - ==>  Preparing: select * from people where id=? 
+28   [main] DEBUG a.b.selById  - ==> Parameters: 2(Integer)
+39   [main] DEBUG a.b.selById  - <==      Total: 1
+40   [main] DEBUG a.b.selByIdandName  - ==>  Preparing: select * from people where id=? and name=? 
+40   [main] DEBUG a.b.selByIdandName  - ==> Parameters: 1(Integer), 张三(String)
+62   [main] DEBUG a.b.selByIdandName  - <==      Total: 1
+0    [main] DEBUG a.b.page  - ==>  Preparing: select * from people limit ?,? 
+24   [main] DEBUG a.b.page  - ==> Parameters: null, 2(Integer)
+0    [main] DEBUG a.b.page  - ==>  Preparing: select * from people limit ?,? 
+23   [main] DEBUG a.b.page  - ==> Parameters: 0(Integer), 2(Integer)
+33   [main] DEBUG a.b.page  - <==      Total: 2
+0    [main] DEBUG a.b.page  - ==>  Preparing: select * from people limit ?,? 
+23   [main] DEBUG a.b.page  - ==> Parameters: 0(Integer), 2(Integer)
+35   [main] DEBUG a.b.page  - <==      Total: 2
+0    [main] DEBUG a.b.page  - ==>  Preparing: select * from people limit ?,? 
+24   [main] DEBUG a.b.page  - ==> Parameters: 0(Integer), 2(Integer)
+33   [main] DEBUG a.b.page  - <==      Total: 2
+0    [main] DEBUG a.b.ins  - ==>  Preparing: insert into people values(default,?,?) 
+23   [main] DEBUG a.b.ins  - ==> Parameters: 新增name(String), 88(Integer)
+26   [main] DEBUG a.b.ins  - <==    Updates: 1
+0    [main] DEBUG a.b.ins  - ==>  Preparing: insert into people values(default,?,?) 
+24   [main] DEBUG a.b.ins  - ==> Parameters: 新增name(String), 88(Integer)
+29   [main] DEBUG a.b.ins  - <==    Updates: 1
